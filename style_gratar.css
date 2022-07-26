@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-style: italic;
+}
+img{
+    height: auto;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+}
